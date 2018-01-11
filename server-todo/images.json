@@ -1,0 +1,20 @@
+{
+    "images":
+    [{
+            "name": "Angular",
+            "url": "assets/img/angularLogo.png"
+        }, {
+            "name": "React",
+            "url": "assets/img/reactLogo.png"
+        }, {
+            "name": "Ember",
+            "url": "assets/img/emberLogo.png"
+        }, {
+            "name": "Vue",
+            "url": "assets/img/vueLogo.png"
+        }, {
+            "name": "Meteor",
+            "url": "assets/img/meteorLogo.png"
+        }
+    ]
+}
